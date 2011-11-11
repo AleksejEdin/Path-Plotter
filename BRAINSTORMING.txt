@@ -18,3 +18,6 @@ eine git repo anlegen (bei GitHub?? nocht vorschläge??)
 ein Lastenheft erstellen
 ein Pflichtenheft erstellen
 Dokumentation erstellen ( den Code so schreiben, dass die Doku zumindest teilweise automatisch erstellt werden kann)
+
+
+das waar test
